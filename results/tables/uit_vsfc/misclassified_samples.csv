@@ -1,0 +1,55 @@
+﻿segmented_comments,actual,predicted,actual_label,predicted_label
+thẳng_thắn và kiên_quyết .,1,0,Positive,Negative
+"tránh tình_trạng giảng_viên đang dạy thì hết phấn , micro hết pin .",0,2,Negative,Neutral
+"giảng bài chi_tiết , cụ_thể .",1,0,Positive,Negative
+"anh wzjwz232 ơi , cho đề cuối kỳ dễ dễ đi .",0,2,Negative,Neutral
+"tôi và các bạn khác cùng bước vào , khi đó thầy yêu_cầu đồng_loạt mở hết code lên chạy demo để thầy chấm , và không may thay thầy đã tìm ra 2 bạn có source code y_chang nhau , thầy bắt_đầu_tra hỏi lý_thuyết về đề_tài ' xxx ' đối_với 2 bạn đó .",2,0,Neutral,Negative
+vui nhộn trong giờ học .,1,2,Positive,Neutral
+mong được làm_việc với thầy nhiều hơn .,2,0,Neutral,Negative
+đến lớp hơi muộn do giao_thông .,0,2,Negative,Neutral
+"thầy dạy nhiệt_tình , tốt nhưng không phù_hợp với tôi .",2,1,Neutral,Positive
+đề_nghị dạy lập_trình c trước hoặc song_song với môn_học này .,0,2,Negative,Neutral
+cho sinh_viên cơ_hội tham_gia project thực_tế .,1,0,Positive,Negative
+sữa lỗi cho sinh_viên .,1,0,Positive,Negative
+hình_dung chưa ?,2,0,Neutral,Negative
+thầy hay bận .,0,1,Negative,Positive
+dễ nắm_bắt kiến_thức để đi thi .,1,2,Positive,Neutral
+kiến_thức được đưa vào ứng_dụng nhiều bài_toán .,2,0,Neutral,Negative
+em có thêm một_số đề_nghị để cải_tiến doubledot thêm kênh để trao_đổi cho môn_học .,0,2,Negative,Neutral
+ida pro 64 - bit hoàn_toàn có_thể phân_tích các file thực_thi 32 - bit nhưng các thanh ghi phức_tạp hơn nhiều thay cho ida pro 64 - bit không phân_tích được cái file thực_thi 32 - bit colonsmile .,0,2,Negative,Neutral
+chưa bao_giờ gặp_mặt giáo_viên từ lúc bắt_đầu học đến bây_giờ !,2,0,Neutral,Negative
+cô dạy được .,2,1,Neutral,Positive
+"khả_năng truyền_đạt kiến_thức cao , thường hay gọi lên bảng để kiểm_tra năng_lực sinh_viên .",1,0,Positive,Negative
+phương_pháp giảng_dạy .,2,1,Neutral,Positive
+"mỗi_một vấn_đề đều phải dừng lại hỏi xem còn sinh_viên nào có cách khác không , hay đơn_giản là cách hiểu khác trên cùng một vấn_đề .",2,0,Neutral,Negative
+giảng_viên ra đồ_án cho sinh_viên về làm để mở_rộng kiến_thức .,1,0,Positive,Negative
+giờ_giấc lộn_xộn .,0,2,Negative,Neutral
+he's very funny .,1,2,Positive,Neutral
+cập_nhật kiến_thức thực_tế .,1,2,Positive,Neutral
+chào thầy !,2,1,Neutral,Positive
+"đối_với em thì cách thầy giảng khá là dễ hiểu nên thầy đừng lo quá về vấn_đề đó ạ , với_lại sinh_viên đa_phần thụ_động nên nếu không hiểu lại càng không dám hỏi .",1,0,Positive,Negative
+theo em thì thầy hơi thụ_động một_tí .,0,2,Negative,Neutral
+nhất là những bạn nhỏ đến lớn chưa chơi game bao_giờ .,2,0,Neutral,Negative
+vì học là để code mà .,2,0,Neutral,Negative
+nhiều hoạt_động .,2,0,Neutral,Negative
+chưa chuẩn_bị kỹ nội_dung giảng_dạy .,0,2,Negative,Neutral
+cách truyền_đạt của cô làm em không hiểu mặc_dù cô giảng rất kỹ_năng nhưng em cũng không hiểu nổi những gì cô nói .,0,2,Negative,Neutral
+"thầy luôn dặn chúng_em phải trăn_trở về tương_lai , phải có sự phấn_đấu , hoàn_thiện tốt nhất mọi công_việc .",1,2,Positive,Neutral
+khá giống lúc học phổ_thông .,2,0,Neutral,Negative
+"môn_học giúp sinh_viên vận_dụng được các kỹ_năng về lập_trình , giúp sinh_viên hiểu rõ về hướng đối_tượng và giúp sinh_viên có_thể tự làm ra các phần_mềm đơn_giản cho riêng mình bằng ngôn_ngữ c .",1,0,Positive,Negative
+học buổi sáng .,2,0,Neutral,Negative
+phương_thức giảng_dạy .,2,1,Neutral,Positive
+"lý_do doubledot "" thầy quên "" .",0,2,Negative,Neutral
+hoàn_hảo !,1,2,Positive,Neutral
+cập_nhật điểm chậm .,0,2,Negative,Neutral
+kiến_thức truyền_đạt của giảng_viên,2,1,Neutral,Positive
+"cách truyền_đạt , sự tận_tâm .",1,2,Positive,Neutral
+giảng_viên lên_lớp đầy_đủ và đúng giờ .,1,2,Positive,Neutral
+phần tài_liệu .,2,0,Neutral,Negative
+môn này cũng được nghe thầy nói của chỉ có ở trường chúng_ta .,2,0,Neutral,Negative
+giảng_viên có tương_tác với giáo_viên .,1,2,Positive,Neutral
+em xin_lỗi nhưng đó là sự_thật !,0,2,Negative,Neutral
+tìm_hiểu về các case study giúp chúng_em biết thêm nhiều kiến_thức mới và trình_bày sản_phẩm của mình trước lớp để thấy những thiếu_sót của mình .,2,0,Neutral,Negative
+em nghĩ là nên giảm số giờ nói lý_thuyết cho thêm giờ làm bài_tập .,0,2,Negative,Neutral
+thầy chủ_động sửa bài_tập trên lớp để sinh_viên nắm kiến_thức rõ hơn .,1,0,Positive,Negative
+thầy có hướng_dẫn vào lúc thực_hành .,2,0,Neutral,Negative

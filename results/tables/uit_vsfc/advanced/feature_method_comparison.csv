@@ -1,0 +1,6 @@
+﻿feature,mean,max,min
+F2_Word_Unigram_Bigram,0.74188,0.7785,0.6977
+F3_Word_Unigram_Bigram_Trigram,0.74398,0.7784,0.7036
+F1_Word_Unigram,0.7395400000000001,0.7731,0.6902
+F5_Word_Character,0.73672,0.7577,0.6999
+F4_Character_Ngram,0.72326,0.7547,0.677

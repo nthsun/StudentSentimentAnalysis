@@ -1,0 +1,201 @@
+﻿segmented_comments,actual_label,predicted_unigram_naive_bayes,predicted_unigram_logistic_regression,predicted_unigram_linear_svm,predicted_unigram_plus_bigram_naive_bayes,predicted_unigram_plus_bigram_logistic_regression,predicted_unigram_plus_bigram_linear_svm
+thẳng_thắn và kiên_quyết .,Positive,Positive,Negative,Negative,Positive,Negative,Negative
+giảng_viên vần tạo thêm động_lực học cho sinh_viên .,Positive,Negative,Positive,Negative,Negative,Negative,Negative
+"tránh tình_trạng giảng_viên đang dạy thì hết phấn , micro hết pin .",Negative,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+"cô rất tận_tình trong giảng_dạy , luôn cải_tiến phương_pháp dạy .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+"giảng bài chi_tiết , cụ_thể .",Positive,Positive,Negative,Negative,Positive,Positive,Positive
+"anh wzjwz232 ơi , cho đề cuối kỳ dễ dễ đi .",Negative,Negative,Neutral,Neutral,Negative,Negative,Negative
+thầy nghiêm_túc .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+thầy theo chế_độ trọng_nam khinh_nữ doubledot các câu hỏi dành cho nữ nhiều hơn dành cho nam .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+"sự tận_tâm của thầy , các ví_dụ đơn_giản , dễ hiểu .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+"có những ví_dụ sinh_động , dễ hiểu .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+"cô giảng bài còn ít chỗ khó hiểu , không sâu_sắc .",Negative,Negative,Negative,Negative,Negative,Negative,Negative
+không có ý_kiến gì !,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+lớp chất_lượng cao nhưng lại thiếu thiết_bị .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+"riêng em , là một sinh_viên kỹ_thuật máy_tính , em thấy môn này là cần_thiết đối_với em , tuy_nhiên chưa thực_sự là một môn_học em cần phải đi_sâu tìm_hiểu , mong thầy về sau có_thể hạ_mức yêu_cầu đầu_ra với các bạn khoa khác ít liên_quan tới môn_học .",Negative,Neutral,Negative,Negative,Neutral,Neutral,Neutral
+"tôi và các bạn khác cùng bước vào , khi đó thầy yêu_cầu đồng_loạt mở hết code lên chạy demo để thầy chấm , và không may thay thầy đã tìm ra 2 bạn có source code y_chang nhau , thầy bắt_đầu_tra hỏi lý_thuyết về đề_tài ' xxx ' đối_với 2 bạn đó .",Neutral,Neutral,Negative,Negative,Negative,Negative,Negative
+cần cung_cấp tài_liệu đầy_đủ và chính_xác hơn .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+giảng_viên nên nhiệt_tình hơn !,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+"cần nâng_cấp máy_tính trong phòng thực_hành , nhiều kit de2 bị lỗi cần sửa_chữa hoặc thay mới .",Negative,Negative,Negative,Negative,Negative,Negative,Negative
+về giảng_dạy .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+nâng_cấp máy_tính .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+thầy rất hiền và nhiệt_tình trong từng tiết_học .,Positive,Positive,Positive,Positive,Positive,Positive,Positive
+thầy dữ quá sinh_viên 50 người thì 49 người sợ thầy .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+luôn giải_đáp mọi thắc_mắc của sinh_viên .,Positive,Positive,Positive,Positive,Positive,Positive,Positive
+vui nhộn trong giờ học .,Positive,Positive,Neutral,Neutral,Neutral,Neutral,Neutral
+"giảng_viên dạy dễ tiếp_thu , slide trình_bày được , giảng_viên vui_tính , dạy nhiệt_tình , tận_tình trong công_việc .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+"giờ_giấc , cách giảng_dạy .",Neutral,Positive,Neutral,Neutral,Positive,Neutral,Neutral
+giảng_dạy hay .,Positive,Positive,Positive,Positive,Positive,Positive,Positive
+điểm quá_trình chưa thật_sự công_bằng với sinh_viên .,Negative,Negative,Negative,Negative,Positive,Negative,Negative
+mong được làm_việc với thầy nhiều hơn .,Neutral,Negative,Negative,Negative,Negative,Negative,Negative
+phòng_ốc nên sạch_sẽ hơn thì sinh_viên sẽ có hứng_thú ngồi lâu hơn trong phòng học .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+"phần pl fraction sql , quản_lý , phân_quyền .",Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+"trong bài thực_hành thì có hướng_dẫn làm , đọc cũng có_thể làm được .",Neutral,Negative,Neutral,Neutral,Negative,Neutral,Neutral
+và cần có thêm những lưu_ý cho học_sinh .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+thầy dạy rất tốt .,Positive,Positive,Positive,Positive,Positive,Positive,Positive
+"thầy dạy hay , tuy_nhiên còn nhiều chỗ chưa thật_sự giải_đáp hoàn_toàn cho sinh_viên vì chưa đủ thời_gian .",Negative,Negative,Negative,Negative,Negative,Negative,Negative
+"thầy dạy rất chi_tiết , dễ hiểu và nhiệt_tình .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+"giảng_viên nhiệt_tình , truyền_đạt tốt .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+"rất thích cách dạy của thầy , thầy rất nhiệt_tình , tận_tâm và rất vui_tính .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+đến lớp hơi muộn do giao_thông .,Negative,Negative,Neutral,Neutral,Negative,Neutral,Negative
+ôn_tập đúng theo thầy nhưng không biết cuối kỳ được mấy điểm .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+nhiều lúc giảng_dạy nói hơi nhanh .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+em cảm_ơn !,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+"thày dạy nhiệt_tình , dễ tiếp_thu .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+"thầy dạy nhiệt_tình , tốt nhưng không phù_hợp với tôi .",Neutral,Positive,Positive,Positive,Positive,Positive,Positive
+giảng_viên chưa tương_tác với sinh_viên trên các diễn_đàn .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+giáo_viên nghỉ dạy .,Negative,Positive,Negative,Negative,Positive,Negative,Positive
+thầy viết chữ rất đẹp !,Positive,Positive,Positive,Positive,Positive,Positive,Positive
+"giáo_viên tận_tình , dạy truyền_đạt tốt .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+đề_nghị dạy lập_trình c trước hoặc song_song với môn_học này .,Negative,Negative,Neutral,Neutral,Negative,Neutral,Positive
+"cô_giáo thân_thiện , giảng_dạy nhiệt_tình dễ hiểu và vui_tính .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+cho sinh_viên cơ_hội tham_gia project thực_tế .,Positive,Negative,Negative,Negative,Negative,Negative,Negative
+sữa lỗi cho sinh_viên .,Positive,Positive,Negative,Negative,Positive,Negative,Negative
+hình_dung chưa ?,Neutral,Negative,Negative,Negative,Negative,Negative,Negative
+thầy hay bận .,Negative,Positive,Positive,Positive,Positive,Positive,Positive
+dễ nắm_bắt kiến_thức để đi thi .,Positive,Positive,Neutral,Positive,Positive,Neutral,Positive
+"phòng thực_hành quy_mô chưa lớn , vẫn còn các máy_tính không sử_dụng được .",Negative,Negative,Negative,Negative,Negative,Negative,Negative
+kiến_thức được đưa vào ứng_dụng nhiều bài_toán .,Neutral,Positive,Negative,Negative,Positive,Negative,Negative
+tất_cả các hoạt_động trên lớp .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+thực_hành sớm hơn so với lý_thuyết dẫn đến nhiều khó_khăn cho sinh_viên .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+"slide môn_học hoặc các tài_liệu cần rõ_ràng hơn_nữa , nhiều phần rất khó hiểu nhưng lại rất ít kiến_thức về nó , làm sinh_viên không_thể hiểu được bản_chất của bài đó .",Negative,Negative,Negative,Negative,Negative,Negative,Negative
+chắc là em không có gì là không hài_lòng về thầy wzjwz317 .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+"thầy vui_tính , giảng_bài dễ hiểu , nhiệt_tình .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+giọng cô dễ nghe .,Positive,Positive,Positive,Positive,Positive,Positive,Positive
+em có thêm một_số đề_nghị để cải_tiến doubledot thêm kênh để trao_đổi cho môn_học .,Negative,Neutral,Neutral,Neutral,Negative,Negative,Negative
+ít điểm_danh .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+hệ_thống máy_chiếu cần cải_thiện .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+"nếu em muốn học , em sẽ lên lớp_học .",Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+giảng_viên rất tận_tâm trong việc giảng_dạy .,Positive,Positive,Positive,Positive,Positive,Positive,Positive
+em không có ý_kiến gì cả .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+giải bài_tập về nhà .,Neutral,Neutral,Neutral,Neutral,Negative,Neutral,Neutral
+bài_tập làm đầy_đủ .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+"giảng_viên giảng_dạy hay , vui_tính .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+học đều_đặn .,Neutral,Negative,Neutral,Neutral,Negative,Neutral,Neutral
+đây là tình_trạng chung của tất_cả các lớp thực_hành không_chỉ riêng lớp này .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+"thầy nên dạy kỹ hơn và giảng lại chậm , em thấy thầy dạy quá nhanh , em cảm_ơn ạ .",Negative,Negative,Negative,Negative,Negative,Negative,Negative
+mới gặp một lần !,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+những gì thầy_cô cung_cấp hầu_như trên google đều có .,Neutral,Negative,Neutral,Neutral,Negative,Neutral,Neutral
+thêm thời_lượng môn_học .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+ida pro 64 - bit hoàn_toàn có_thể phân_tích các file thực_thi 32 - bit nhưng các thanh ghi phức_tạp hơn nhiều thay cho ida pro 64 - bit không phân_tích được cái file thực_thi 32 - bit colonsmile .,Negative,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+chưa bao_giờ gặp_mặt giáo_viên từ lúc bắt_đầu học đến bây_giờ !,Neutral,Negative,Negative,Negative,Negative,Negative,Negative
+chưa thấy giáo_viên bao_giờ .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+thân_mến .,Neutral,Positive,Neutral,Neutral,Positive,Neutral,Neutral
+cô dạy được .,Neutral,Positive,Positive,Positive,Positive,Positive,Positive
+"khả_năng truyền_đạt kiến_thức cao , thường hay gọi lên bảng để kiểm_tra năng_lực sinh_viên .",Positive,Negative,Negative,Positive,Negative,Negative,Negative
+lượng kiến_thức quá nhiều trong một học_kỳ .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+cũng ổn .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+"nhiệt_tình , giảng_dạy có hiệu_quả cao .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+phương_pháp giảng_dạy .,Neutral,Positive,Positive,Positive,Positive,Positive,Positive
+"giáo_viên tận tụy , nhiệt_tình .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+mở_rộng kiến_thức làm cơ_sở cho các môn_học khác .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+"mỗi_một vấn_đề đều phải dừng lại hỏi xem còn sinh_viên nào có cách khác không , hay đơn_giản là cách hiểu khác trên cùng một vấn_đề .",Neutral,Negative,Negative,Negative,Negative,Negative,Negative
+giảng_viên ra đồ_án cho sinh_viên về làm để mở_rộng kiến_thức .,Positive,Negative,Negative,Negative,Negative,Negative,Negative
+giờ_giấc lộn_xộn .,Negative,Positive,Neutral,Neutral,Positive,Positive,Positive
+quan_tâm .,Neutral,Positive,Neutral,Neutral,Positive,Neutral,Neutral
+tạo ra sự cạnh_tranh trong mỗi buổi thực_hành .,Neutral,Negative,Neutral,Neutral,Negative,Neutral,Negative
+"thầy dạy rất nhiệt_tình , dễ hiểu , tận_tâm .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+nói_chung cũng tạm được .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+không tập_trung vào giảng kiến_thức cho học_sinh hiểu .,Negative,Positive,Negative,Negative,Positive,Positive,Positive
+chưa gặp lần nào .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+he's very funny .,Positive,Positive,Neutral,Neutral,Positive,Neutral,Neutral
+cập_nhật kiến_thức thực_tế .,Positive,Positive,Neutral,Neutral,Neutral,Neutral,Neutral
+cô hướng_dẫn rất nhiệt_tình .,Positive,Positive,Positive,Positive,Positive,Positive,Positive
+"tác_phong và phương_pháp giảng_bài hiện_đại , gần_gũi , dễ tiếp_thu .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+chào thầy !,Neutral,Positive,Positive,Positive,Positive,Positive,Positive
+"đối_với em thì cách thầy giảng khá là dễ hiểu nên thầy đừng lo quá về vấn_đề đó ạ , với_lại sinh_viên đa_phần thụ_động nên nếu không hiểu lại càng không dám hỏi .",Positive,Negative,Negative,Negative,Negative,Negative,Negative
+không có_điều không hài_lòng .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+"hình_thức 2 cần có sự phân_bố thời_gian gặp sinh_viên hợp_lý , không_thể để cuối kỳ , gặp rồi cho đồ_án liên_tục , ảnh_hưởng đến việc ôn_tập cho kỳ thi cuối kỳ của sinh_viên .",Negative,Negative,Negative,Negative,Negative,Negative,Negative
+nội_dung thi khó đối_với sinh_viên không chuyên .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+em đã kết_thúc một học_kỳ ở đó !,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+"thầy dạy hay và rất vui , ngoài các kiến_thức môn_học .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+theo em thì thầy hơi thụ_động một_tí .,Negative,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+"điểm danh , làm bài kiểm_tra thường_xuyên trong các buổi học .",Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+dạy theo đề_cương môn_học .,Neutral,Negative,Neutral,Neutral,Negative,Neutral,Neutral
+nhất là những bạn nhỏ đến lớn chưa chơi game bao_giờ .,Neutral,Negative,Negative,Negative,Negative,Negative,Negative
+lịch thực_hành ban ra quá trễ !,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+mỗi khi lấy micro lại phải lấy thêm cả loa .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+vì học là để code mà .,Neutral,Negative,Negative,Negative,Negative,Negative,Negative
+gặp giáo_viên cũng chỉ là biết mặt để thầy_cô còn chấm điểm đồ_án hi_hi .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+nhiều hoạt_động .,Neutral,Negative,Negative,Negative,Negative,Negative,Negative
+tất_cả các hoạt_động .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+"thầy dạy nhiệt_tình , dạy những kiến_thức sát với các kỳ thi .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+trao_đổi nhiều với sinh_viên .,Positive,Positive,Positive,Negative,Negative,Positive,Negative
+giải bài_tập giúp hiểu hơn về bài_học .,Neutral,Positive,Neutral,Neutral,Negative,Neutral,Neutral
+thầy có chia_sẻ nhiều kinh_nghiệm thực_tế .,Positive,Positive,Positive,Positive,Positive,Positive,Positive
+"thầy wzjwz27 cần giảng_bài rõ_ràng hơn , khi giảng cần nói to hoặc dùng micro để mọi người trong lớp cùng nghe cũng như chú_ý đến bài giảng .",Negative,Negative,Negative,Negative,Negative,Negative,Negative
+cần cho sinh_viên thảo_luận nhiều hơn .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+"giảng_viên không tổ_chức buổi gặp sinh_viên nào , và cũng không có bài_tập , nội_dung phần thực_hành .",Negative,Neutral,Negative,Neutral,Neutral,Negative,Neutral
+"cần nâng_cấp hệ_thống wifi , vì khi vào phòng thực_hành , sinh_viên không_thể truy_cập internet , buộc phải xin phép ra ngoài để làm bài .",Negative,Negative,Negative,Negative,Negative,Negative,Negative
+"nên trình_bày bài_tập bằng lời_nói trước lớp nhiều hơn , dễ hiểu hơn .",Negative,Negative,Negative,Negative,Negative,Negative,Negative
+chưa chuẩn_bị kỹ nội_dung giảng_dạy .,Negative,Positive,Neutral,Positive,Positive,Positive,Positive
+cách truyền_đạt của cô làm em không hiểu mặc_dù cô giảng rất kỹ_năng nhưng em cũng không hiểu nổi những gì cô nói .,Negative,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+không có điểm nào không hài_lòng .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+"phương_pháp truyền_đạt khó tiếp_thu , lượng kiến_thức nhiều nhưng không tập_trung .",Negative,Negative,Negative,Negative,Negative,Negative,Negative
+thầy thường_xuyên theo_dõi sinh_viên trong quá_trình thực_hành và giải_đáp thắc_mắc rất hợp_lý .,Positive,Positive,Positive,Positive,Positive,Positive,Positive
+"thầy dạy rễ hiểu , nhiệt_tình .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+"thầy luôn dặn chúng_em phải trăn_trở về tương_lai , phải có sự phấn_đấu , hoàn_thiện tốt nhất mọi công_việc .",Positive,Positive,Neutral,Neutral,Neutral,Neutral,Positive
+"thầy vui_tính , cởi_mở .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+"thầy dạy tâm_huyết , giỏi , truyền_đạt được cảm_hứng học_tập và nghiên_cứu cho sinh_viên .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+khá giống lúc học phổ_thông .,Neutral,Negative,Negative,Negative,Negative,Negative,Negative
+"môn_học giúp sinh_viên vận_dụng được các kỹ_năng về lập_trình , giúp sinh_viên hiểu rõ về hướng đối_tượng và giúp sinh_viên có_thể tự làm ra các phần_mềm đơn_giản cho riêng mình bằng ngôn_ngữ c .",Positive,Negative,Negative,Negative,Positive,Negative,Negative
+học buổi sáng .,Neutral,Negative,Negative,Negative,Negative,Negative,Negative
+"bộ kit thực_hành cần được nâng_cấp để không xảy ra tình_trạng hư , trục_trặc .",Negative,Negative,Negative,Negative,Negative,Negative,Negative
+giảng_viên giảng bài hơi khó hiểu .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+wifi các phòng thực_hành thường rất yếu .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+cô tận_tâm nhiệt_tình giúp_đỡ cho sinh_viên .,Positive,Positive,Positive,Positive,Positive,Positive,Positive
+phương_thức giảng_dạy .,Neutral,Positive,Positive,Positive,Positive,Positive,Positive
+"thầy rất tốt , và truyền_đạt đầy_đủ kiến_thức tới sinh_viên .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+"lý_do doubledot "" thầy quên "" .",Negative,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+hoạt_động giảng_dạy của giáo_viên khá tốt .,Positive,Positive,Positive,Positive,Positive,Positive,Positive
+thật_sự để đánh_giá tổng_quát được chất_lượng đào_tạo thì có_lẽ một sinh_viên phải học qua nhiều giáo_viên mới có cái nhìn tổng_quát về cách giảng_dạy và chất_lượng .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+thầy sửa bài_tập nhanh quá nên hơi khó hiểu .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+"lên lớp đúng giờ , tận_tâm với sinh_viên .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+hoàn_hảo !,Positive,Positive,Neutral,Neutral,Positive,Neutral,Neutral
+"giáo_viên thực_hành cần quan_tâm , chỉ_dẫn sinh_viên tận_tình hơn .",Negative,Positive,Negative,Negative,Positive,Negative,Negative
+cập_nhật điểm chậm .,Negative,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+giảng_viên truyền_đạt dễ hiểu và nhiệt_tình .,Positive,Positive,Positive,Positive,Positive,Positive,Positive
+giảng_viên dạy không nhàm_chán .,Neutral,Negative,Neutral,Neutral,Positive,Neutral,Positive
+chưa chú_ý đến sinh_viên lắm .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+"nên xắp xếp lịch báo_cáo , thuyết_trình một_cách cụ_thể , giúp cho sinh_viên chủ_động được thời_gian cũng như nắm_bắt được kiến_thức cụ_thể của từng buổi .",Negative,Negative,Negative,Negative,Negative,Negative,Negative
+"kiến_thức truyền_đạt còn ít , thời_gian lên lớp thường trễ .",Negative,Negative,Negative,Negative,Negative,Negative,Negative
+chứ em thấy đa_số các bạn đều chọn chuyên_ngành máy_học bên kia .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+nội_dung thi cũng chỉ toàn lý_thuyết .,Negative,Negative,Negative,Neutral,Negative,Neutral,Neutral
+"thầy nhiệt_tình , tâm_huyết .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+"thầy dạy rất tận_tâm , nhiệt_tình .",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+"em có ý_kiến như sau doubledot_môn này em nghĩ là cần có nhiều tài_liệu , đặc_biệt tiếng việt thì càng tốt vì không phải ai cũng giỏi tiếng anh .",Negative,Neutral,Negative,Neutral,Neutral,Negative,Negative
+cần nhiều tiết_học hơn để giáo_viên sửa bài trên lớp .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+khả_năng truyền_tải kiến_thức .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+kiến_thức truyền_đạt của giảng_viên,Neutral,Positive,Positive,Positive,Positive,Neutral,Positive
+"cách truyền_đạt , sự tận_tâm .",Positive,Positive,Neutral,Neutral,Positive,Neutral,Neutral
+nên cân_bằng hai bên .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+giảng_viên lên_lớp đầy_đủ và đúng giờ .,Positive,Positive,Neutral,Neutral,Positive,Positive,Positive
+thầy rất thoáng và thoải_mái .,Positive,Positive,Positive,Positive,Positive,Positive,Positive
+phần tài_liệu .,Neutral,Negative,Negative,Negative,Negative,Negative,Negative
+môn này cũng được nghe thầy nói của chỉ có ở trường chúng_ta .,Neutral,Negative,Negative,Neutral,Negative,Negative,Neutral
+"bởi chúng_em đang đi học , phải học của nhiều môn khác nhau .",Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+cần hướng_dẫn nhiều hơn về phần bài_tập .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+mặc_dù điểm thi em không cao do em làm bài không dò lại coloncontemn .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+nội_dung chưa cô_động .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+"thầy ôn_kỹ , hay cho bài_tập trên moodle , cập_nhật file bài giảng , bài_tập , bài ôn thường_xuyên .",Positive,Negative,Positive,Positive,Negative,Negative,Negative
+giảng_viên có tương_tác với giáo_viên .,Positive,Positive,Neutral,Neutral,Neutral,Neutral,Neutral
+em muốn có thời_gian tiếp_xúc và học_hỏi thầy nhiều hơn nhưng do thầy ít lên lớp nên không có cơ_hội .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+em xin_lỗi nhưng đó là sự_thật !,Negative,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+em cám_ơn .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+"slide còn hơi khô_khan , cách giải_thích của giảng_viên còn chưa thuyết_phục dễ hiểu .",Negative,Negative,Negative,Negative,Negative,Negative,Negative
+tìm_hiểu về các case study giúp chúng_em biết thêm nhiều kiến_thức mới và trình_bày sản_phẩm của mình trước lớp để thấy những thiếu_sót của mình .,Neutral,Negative,Negative,Negative,Neutral,Negative,Negative
+rất quan_tâm .,Positive,Positive,Positive,Positive,Positive,Positive,Positive
+em nghĩ là nên giảm số giờ nói lý_thuyết cho thêm giờ làm bài_tập .,Negative,Negative,Neutral,Neutral,Negative,Neutral,Neutral
+thầy chủ_động sửa bài_tập trên lớp để sinh_viên nắm kiến_thức rõ hơn .,Positive,Negative,Negative,Negative,Negative,Negative,Negative
+hầu_như không có vấn_đề gì không hài_lòng .,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+thầy có phương_pháp giảng_dạy hiệu_quả .,Positive,Positive,Positive,Positive,Positive,Positive,Positive
+thầy có hướng_dẫn vào lúc thực_hành .,Neutral,Negative,Negative,Negative,Positive,Negative,Negative
+"thầy rất dễ_chịu , giới_thiệu về thực_tế bên ngoài nhiều !",Positive,Positive,Positive,Positive,Positive,Positive,Positive
+không có ý_kiến !,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+môn_học khá khó không phù_hợp .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+phương_pháp làm bài_tập .,Neutral,Negative,Neutral,Neutral,Neutral,Neutral,Neutral
+thầy giảng tận_tâm .,Positive,Positive,Positive,Positive,Positive,Positive,Positive
+"ít tương_tác với sinh_viên khi dạy , không thông_báo cụ_thể đồ_án phải làm những gì , không thông_báo ngày báo_cáo cũng như hỏi_han tiến_độ đồ_án .",Negative,Negative,Negative,Negative,Neutral,Negative,Negative
+nhiệt_huyết với sinh_viên .,Positive,Positive,Positive,Positive,Positive,Positive,Positive
+nên giải_thích một_số vấn_đề khó chi_tiết hơn .,Negative,Negative,Negative,Negative,Negative,Negative,Negative
+giảng_dạy ngắn_gọn dễ hiểu 10 fraction 10 điểm cho thầy luôn .,Positive,Positive,Positive,Positive,Positive,Positive,Positive

@@ -1,0 +1,3 @@
+﻿configuration,ngram_range,train_samples,test_samples,feature_count,train_nonzero_avg,test_nonzero_avg
+unigram,"(1, 1)",800,200,529,7.14,7.0
+unigram_bigram,"(1, 2)",800,200,1199,9.98,8.76

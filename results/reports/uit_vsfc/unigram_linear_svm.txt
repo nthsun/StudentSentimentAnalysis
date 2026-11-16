@@ -1,0 +1,12 @@
+Configuration: unigram
+Model: Linear SVM
+
+              precision    recall  f1-score   support
+
+    Negative     0.6712    0.7313    0.7000        67
+    Positive     0.8571    0.7273    0.7869        66
+     Neutral     0.6620    0.7015    0.6812        67
+
+    accuracy                         0.7200       200
+   macro avg     0.7301    0.7200    0.7227       200
+weighted avg     0.7295    0.7200    0.7224       200

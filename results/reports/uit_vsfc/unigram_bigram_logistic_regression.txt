@@ -1,0 +1,12 @@
+Configuration: unigram_bigram
+Model: Logistic Regression
+
+              precision    recall  f1-score   support
+
+    Negative     0.6667    0.7463    0.7042        67
+    Positive     0.8421    0.7273    0.7805        66
+     Neutral     0.6912    0.7015    0.6963        67
+
+    accuracy                         0.7250       200
+   macro avg     0.7333    0.7250    0.7270       200
+weighted avg     0.7328    0.7250    0.7267       200

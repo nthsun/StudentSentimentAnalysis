@@ -1,0 +1,12 @@
+Configuration: unigram
+Model: Naive Bayes
+
+              precision    recall  f1-score   support
+
+    Negative     0.6410    0.7463    0.6897        67
+    Positive     0.7703    0.8636    0.8143        66
+     Neutral     0.7292    0.5224    0.6087        67
+
+    accuracy                         0.7100       200
+   macro avg     0.7135    0.7108    0.7042       200
+weighted avg     0.7132    0.7100    0.7037       200

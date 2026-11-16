@@ -1,0 +1,2 @@
+﻿test_samples,accuracy,macro_f1,weighted_f1,correct_predictions,incorrect_predictions
+3166,0.7542640555906507,0.6355020049776325,0.7940176675444292,2388,778

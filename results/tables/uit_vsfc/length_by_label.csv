@@ -1,0 +1,4 @@
+﻿sentiment_label,count,mean,median,min,max
+Negative,333,15.63,12.0,3,73
+Neutral,334,9.69,7.0,2,79
+Positive,333,12.24,10.0,3,60

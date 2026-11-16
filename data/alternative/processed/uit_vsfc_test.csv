@@ -1,0 +1,201 @@
+﻿segmented_comments,sentiments,sentiment_label
+thẳng_thắn và kiên_quyết .,1,Positive
+giảng_viên vần tạo thêm động_lực học cho sinh_viên .,1,Positive
+"tránh tình_trạng giảng_viên đang dạy thì hết phấn , micro hết pin .",0,Negative
+"cô rất tận_tình trong giảng_dạy , luôn cải_tiến phương_pháp dạy .",1,Positive
+"giảng bài chi_tiết , cụ_thể .",1,Positive
+"anh wzjwz232 ơi , cho đề cuối kỳ dễ dễ đi .",0,Negative
+thầy nghiêm_túc .,2,Neutral
+thầy theo chế_độ trọng_nam khinh_nữ doubledot các câu hỏi dành cho nữ nhiều hơn dành cho nam .,0,Negative
+"sự tận_tâm của thầy , các ví_dụ đơn_giản , dễ hiểu .",1,Positive
+"có những ví_dụ sinh_động , dễ hiểu .",1,Positive
+"cô giảng bài còn ít chỗ khó hiểu , không sâu_sắc .",0,Negative
+không có ý_kiến gì !,2,Neutral
+lớp chất_lượng cao nhưng lại thiếu thiết_bị .,0,Negative
+"riêng em , là một sinh_viên kỹ_thuật máy_tính , em thấy môn này là cần_thiết đối_với em , tuy_nhiên chưa thực_sự là một môn_học em cần phải đi_sâu tìm_hiểu , mong thầy về sau có_thể hạ_mức yêu_cầu đầu_ra với các bạn khoa khác ít liên_quan tới môn_học .",0,Negative
+"tôi và các bạn khác cùng bước vào , khi đó thầy yêu_cầu đồng_loạt mở hết code lên chạy demo để thầy chấm , và không may thay thầy đã tìm ra 2 bạn có source code y_chang nhau , thầy bắt_đầu_tra hỏi lý_thuyết về đề_tài ' xxx ' đối_với 2 bạn đó .",2,Neutral
+cần cung_cấp tài_liệu đầy_đủ và chính_xác hơn .,0,Negative
+giảng_viên nên nhiệt_tình hơn !,0,Negative
+"cần nâng_cấp máy_tính trong phòng thực_hành , nhiều kit de2 bị lỗi cần sửa_chữa hoặc thay mới .",0,Negative
+về giảng_dạy .,2,Neutral
+nâng_cấp máy_tính .,2,Neutral
+thầy rất hiền và nhiệt_tình trong từng tiết_học .,1,Positive
+thầy dữ quá sinh_viên 50 người thì 49 người sợ thầy .,0,Negative
+luôn giải_đáp mọi thắc_mắc của sinh_viên .,1,Positive
+vui nhộn trong giờ học .,1,Positive
+"giảng_viên dạy dễ tiếp_thu , slide trình_bày được , giảng_viên vui_tính , dạy nhiệt_tình , tận_tình trong công_việc .",1,Positive
+"giờ_giấc , cách giảng_dạy .",2,Neutral
+giảng_dạy hay .,1,Positive
+điểm quá_trình chưa thật_sự công_bằng với sinh_viên .,0,Negative
+mong được làm_việc với thầy nhiều hơn .,2,Neutral
+phòng_ốc nên sạch_sẽ hơn thì sinh_viên sẽ có hứng_thú ngồi lâu hơn trong phòng học .,0,Negative
+"phần pl fraction sql , quản_lý , phân_quyền .",2,Neutral
+"trong bài thực_hành thì có hướng_dẫn làm , đọc cũng có_thể làm được .",2,Neutral
+và cần có thêm những lưu_ý cho học_sinh .,0,Negative
+thầy dạy rất tốt .,1,Positive
+"thầy dạy hay , tuy_nhiên còn nhiều chỗ chưa thật_sự giải_đáp hoàn_toàn cho sinh_viên vì chưa đủ thời_gian .",0,Negative
+"thầy dạy rất chi_tiết , dễ hiểu và nhiệt_tình .",1,Positive
+"giảng_viên nhiệt_tình , truyền_đạt tốt .",1,Positive
+"rất thích cách dạy của thầy , thầy rất nhiệt_tình , tận_tâm và rất vui_tính .",1,Positive
+đến lớp hơi muộn do giao_thông .,0,Negative
+ôn_tập đúng theo thầy nhưng không biết cuối kỳ được mấy điểm .,2,Neutral
+nhiều lúc giảng_dạy nói hơi nhanh .,0,Negative
+em cảm_ơn !,2,Neutral
+"thày dạy nhiệt_tình , dễ tiếp_thu .",1,Positive
+"thầy dạy nhiệt_tình , tốt nhưng không phù_hợp với tôi .",2,Neutral
+giảng_viên chưa tương_tác với sinh_viên trên các diễn_đàn .,0,Negative
+giáo_viên nghỉ dạy .,0,Negative
+thầy viết chữ rất đẹp !,1,Positive
+"giáo_viên tận_tình , dạy truyền_đạt tốt .",1,Positive
+đề_nghị dạy lập_trình c trước hoặc song_song với môn_học này .,0,Negative
+"cô_giáo thân_thiện , giảng_dạy nhiệt_tình dễ hiểu và vui_tính .",1,Positive
+cho sinh_viên cơ_hội tham_gia project thực_tế .,1,Positive
+sữa lỗi cho sinh_viên .,1,Positive
+hình_dung chưa ?,2,Neutral
+thầy hay bận .,0,Negative
+dễ nắm_bắt kiến_thức để đi thi .,1,Positive
+"phòng thực_hành quy_mô chưa lớn , vẫn còn các máy_tính không sử_dụng được .",0,Negative
+kiến_thức được đưa vào ứng_dụng nhiều bài_toán .,2,Neutral
+tất_cả các hoạt_động trên lớp .,2,Neutral
+thực_hành sớm hơn so với lý_thuyết dẫn đến nhiều khó_khăn cho sinh_viên .,0,Negative
+"slide môn_học hoặc các tài_liệu cần rõ_ràng hơn_nữa , nhiều phần rất khó hiểu nhưng lại rất ít kiến_thức về nó , làm sinh_viên không_thể hiểu được bản_chất của bài đó .",0,Negative
+chắc là em không có gì là không hài_lòng về thầy wzjwz317 .,2,Neutral
+"thầy vui_tính , giảng_bài dễ hiểu , nhiệt_tình .",1,Positive
+giọng cô dễ nghe .,1,Positive
+em có thêm một_số đề_nghị để cải_tiến doubledot thêm kênh để trao_đổi cho môn_học .,0,Negative
+ít điểm_danh .,2,Neutral
+hệ_thống máy_chiếu cần cải_thiện .,0,Negative
+"nếu em muốn học , em sẽ lên lớp_học .",2,Neutral
+giảng_viên rất tận_tâm trong việc giảng_dạy .,1,Positive
+em không có ý_kiến gì cả .,2,Neutral
+giải bài_tập về nhà .,2,Neutral
+bài_tập làm đầy_đủ .,2,Neutral
+"giảng_viên giảng_dạy hay , vui_tính .",1,Positive
+học đều_đặn .,2,Neutral
+đây là tình_trạng chung của tất_cả các lớp thực_hành không_chỉ riêng lớp này .,2,Neutral
+"thầy nên dạy kỹ hơn và giảng lại chậm , em thấy thầy dạy quá nhanh , em cảm_ơn ạ .",0,Negative
+mới gặp một lần !,2,Neutral
+những gì thầy_cô cung_cấp hầu_như trên google đều có .,2,Neutral
+thêm thời_lượng môn_học .,0,Negative
+ida pro 64 - bit hoàn_toàn có_thể phân_tích các file thực_thi 32 - bit nhưng các thanh ghi phức_tạp hơn nhiều thay cho ida pro 64 - bit không phân_tích được cái file thực_thi 32 - bit colonsmile .,0,Negative
+chưa bao_giờ gặp_mặt giáo_viên từ lúc bắt_đầu học đến bây_giờ !,2,Neutral
+chưa thấy giáo_viên bao_giờ .,2,Neutral
+thân_mến .,2,Neutral
+cô dạy được .,2,Neutral
+"khả_năng truyền_đạt kiến_thức cao , thường hay gọi lên bảng để kiểm_tra năng_lực sinh_viên .",1,Positive
+lượng kiến_thức quá nhiều trong một học_kỳ .,0,Negative
+cũng ổn .,2,Neutral
+"nhiệt_tình , giảng_dạy có hiệu_quả cao .",1,Positive
+phương_pháp giảng_dạy .,2,Neutral
+"giáo_viên tận tụy , nhiệt_tình .",1,Positive
+mở_rộng kiến_thức làm cơ_sở cho các môn_học khác .,2,Neutral
+"mỗi_một vấn_đề đều phải dừng lại hỏi xem còn sinh_viên nào có cách khác không , hay đơn_giản là cách hiểu khác trên cùng một vấn_đề .",2,Neutral
+giảng_viên ra đồ_án cho sinh_viên về làm để mở_rộng kiến_thức .,1,Positive
+giờ_giấc lộn_xộn .,0,Negative
+quan_tâm .,2,Neutral
+tạo ra sự cạnh_tranh trong mỗi buổi thực_hành .,2,Neutral
+"thầy dạy rất nhiệt_tình , dễ hiểu , tận_tâm .",1,Positive
+nói_chung cũng tạm được .,2,Neutral
+không tập_trung vào giảng kiến_thức cho học_sinh hiểu .,0,Negative
+chưa gặp lần nào .,2,Neutral
+he's very funny .,1,Positive
+cập_nhật kiến_thức thực_tế .,1,Positive
+cô hướng_dẫn rất nhiệt_tình .,1,Positive
+"tác_phong và phương_pháp giảng_bài hiện_đại , gần_gũi , dễ tiếp_thu .",1,Positive
+chào thầy !,2,Neutral
+"đối_với em thì cách thầy giảng khá là dễ hiểu nên thầy đừng lo quá về vấn_đề đó ạ , với_lại sinh_viên đa_phần thụ_động nên nếu không hiểu lại càng không dám hỏi .",1,Positive
+không có_điều không hài_lòng .,2,Neutral
+"hình_thức 2 cần có sự phân_bố thời_gian gặp sinh_viên hợp_lý , không_thể để cuối kỳ , gặp rồi cho đồ_án liên_tục , ảnh_hưởng đến việc ôn_tập cho kỳ thi cuối kỳ của sinh_viên .",0,Negative
+nội_dung thi khó đối_với sinh_viên không chuyên .,0,Negative
+em đã kết_thúc một học_kỳ ở đó !,2,Neutral
+"thầy dạy hay và rất vui , ngoài các kiến_thức môn_học .",1,Positive
+theo em thì thầy hơi thụ_động một_tí .,0,Negative
+"điểm danh , làm bài kiểm_tra thường_xuyên trong các buổi học .",2,Neutral
+dạy theo đề_cương môn_học .,2,Neutral
+nhất là những bạn nhỏ đến lớn chưa chơi game bao_giờ .,2,Neutral
+lịch thực_hành ban ra quá trễ !,0,Negative
+mỗi khi lấy micro lại phải lấy thêm cả loa .,2,Neutral
+vì học là để code mà .,2,Neutral
+gặp giáo_viên cũng chỉ là biết mặt để thầy_cô còn chấm điểm đồ_án hi_hi .,2,Neutral
+nhiều hoạt_động .,2,Neutral
+tất_cả các hoạt_động .,2,Neutral
+"thầy dạy nhiệt_tình , dạy những kiến_thức sát với các kỳ thi .",1,Positive
+trao_đổi nhiều với sinh_viên .,1,Positive
+giải bài_tập giúp hiểu hơn về bài_học .,2,Neutral
+thầy có chia_sẻ nhiều kinh_nghiệm thực_tế .,1,Positive
+"thầy wzjwz27 cần giảng_bài rõ_ràng hơn , khi giảng cần nói to hoặc dùng micro để mọi người trong lớp cùng nghe cũng như chú_ý đến bài giảng .",0,Negative
+cần cho sinh_viên thảo_luận nhiều hơn .,0,Negative
+"giảng_viên không tổ_chức buổi gặp sinh_viên nào , và cũng không có bài_tập , nội_dung phần thực_hành .",0,Negative
+"cần nâng_cấp hệ_thống wifi , vì khi vào phòng thực_hành , sinh_viên không_thể truy_cập internet , buộc phải xin phép ra ngoài để làm bài .",0,Negative
+"nên trình_bày bài_tập bằng lời_nói trước lớp nhiều hơn , dễ hiểu hơn .",0,Negative
+chưa chuẩn_bị kỹ nội_dung giảng_dạy .,0,Negative
+cách truyền_đạt của cô làm em không hiểu mặc_dù cô giảng rất kỹ_năng nhưng em cũng không hiểu nổi những gì cô nói .,0,Negative
+không có điểm nào không hài_lòng .,2,Neutral
+"phương_pháp truyền_đạt khó tiếp_thu , lượng kiến_thức nhiều nhưng không tập_trung .",0,Negative
+thầy thường_xuyên theo_dõi sinh_viên trong quá_trình thực_hành và giải_đáp thắc_mắc rất hợp_lý .,1,Positive
+"thầy dạy rễ hiểu , nhiệt_tình .",1,Positive
+"thầy luôn dặn chúng_em phải trăn_trở về tương_lai , phải có sự phấn_đấu , hoàn_thiện tốt nhất mọi công_việc .",1,Positive
+"thầy vui_tính , cởi_mở .",1,Positive
+"thầy dạy tâm_huyết , giỏi , truyền_đạt được cảm_hứng học_tập và nghiên_cứu cho sinh_viên .",1,Positive
+khá giống lúc học phổ_thông .,2,Neutral
+"môn_học giúp sinh_viên vận_dụng được các kỹ_năng về lập_trình , giúp sinh_viên hiểu rõ về hướng đối_tượng và giúp sinh_viên có_thể tự làm ra các phần_mềm đơn_giản cho riêng mình bằng ngôn_ngữ c .",1,Positive
+học buổi sáng .,2,Neutral
+"bộ kit thực_hành cần được nâng_cấp để không xảy ra tình_trạng hư , trục_trặc .",0,Negative
+giảng_viên giảng bài hơi khó hiểu .,0,Negative
+wifi các phòng thực_hành thường rất yếu .,0,Negative
+cô tận_tâm nhiệt_tình giúp_đỡ cho sinh_viên .,1,Positive
+phương_thức giảng_dạy .,2,Neutral
+"thầy rất tốt , và truyền_đạt đầy_đủ kiến_thức tới sinh_viên .",1,Positive
+"lý_do doubledot "" thầy quên "" .",0,Negative
+hoạt_động giảng_dạy của giáo_viên khá tốt .,1,Positive
+thật_sự để đánh_giá tổng_quát được chất_lượng đào_tạo thì có_lẽ một sinh_viên phải học qua nhiều giáo_viên mới có cái nhìn tổng_quát về cách giảng_dạy và chất_lượng .,0,Negative
+thầy sửa bài_tập nhanh quá nên hơi khó hiểu .,0,Negative
+"lên lớp đúng giờ , tận_tâm với sinh_viên .",1,Positive
+hoàn_hảo !,1,Positive
+"giáo_viên thực_hành cần quan_tâm , chỉ_dẫn sinh_viên tận_tình hơn .",0,Negative
+cập_nhật điểm chậm .,0,Negative
+giảng_viên truyền_đạt dễ hiểu và nhiệt_tình .,1,Positive
+giảng_viên dạy không nhàm_chán .,2,Neutral
+chưa chú_ý đến sinh_viên lắm .,0,Negative
+"nên xắp xếp lịch báo_cáo , thuyết_trình một_cách cụ_thể , giúp cho sinh_viên chủ_động được thời_gian cũng như nắm_bắt được kiến_thức cụ_thể của từng buổi .",0,Negative
+"kiến_thức truyền_đạt còn ít , thời_gian lên lớp thường trễ .",0,Negative
+chứ em thấy đa_số các bạn đều chọn chuyên_ngành máy_học bên kia .,2,Neutral
+nội_dung thi cũng chỉ toàn lý_thuyết .,0,Negative
+"thầy nhiệt_tình , tâm_huyết .",1,Positive
+"thầy dạy rất tận_tâm , nhiệt_tình .",1,Positive
+"em có ý_kiến như sau doubledot_môn này em nghĩ là cần có nhiều tài_liệu , đặc_biệt tiếng việt thì càng tốt vì không phải ai cũng giỏi tiếng anh .",0,Negative
+cần nhiều tiết_học hơn để giáo_viên sửa bài trên lớp .,0,Negative
+khả_năng truyền_tải kiến_thức .,2,Neutral
+kiến_thức truyền_đạt của giảng_viên,2,Neutral
+"cách truyền_đạt , sự tận_tâm .",1,Positive
+nên cân_bằng hai bên .,0,Negative
+giảng_viên lên_lớp đầy_đủ và đúng giờ .,1,Positive
+thầy rất thoáng và thoải_mái .,1,Positive
+phần tài_liệu .,2,Neutral
+môn này cũng được nghe thầy nói của chỉ có ở trường chúng_ta .,2,Neutral
+"bởi chúng_em đang đi học , phải học của nhiều môn khác nhau .",2,Neutral
+cần hướng_dẫn nhiều hơn về phần bài_tập .,0,Negative
+mặc_dù điểm thi em không cao do em làm bài không dò lại coloncontemn .,2,Neutral
+nội_dung chưa cô_động .,0,Negative
+"thầy ôn_kỹ , hay cho bài_tập trên moodle , cập_nhật file bài giảng , bài_tập , bài ôn thường_xuyên .",1,Positive
+giảng_viên có tương_tác với giáo_viên .,1,Positive
+em muốn có thời_gian tiếp_xúc và học_hỏi thầy nhiều hơn nhưng do thầy ít lên lớp nên không có cơ_hội .,0,Negative
+em xin_lỗi nhưng đó là sự_thật !,0,Negative
+em cám_ơn .,2,Neutral
+"slide còn hơi khô_khan , cách giải_thích của giảng_viên còn chưa thuyết_phục dễ hiểu .",0,Negative
+tìm_hiểu về các case study giúp chúng_em biết thêm nhiều kiến_thức mới và trình_bày sản_phẩm của mình trước lớp để thấy những thiếu_sót của mình .,2,Neutral
+rất quan_tâm .,1,Positive
+em nghĩ là nên giảm số giờ nói lý_thuyết cho thêm giờ làm bài_tập .,0,Negative
+thầy chủ_động sửa bài_tập trên lớp để sinh_viên nắm kiến_thức rõ hơn .,1,Positive
+hầu_như không có vấn_đề gì không hài_lòng .,2,Neutral
+thầy có phương_pháp giảng_dạy hiệu_quả .,1,Positive
+thầy có hướng_dẫn vào lúc thực_hành .,2,Neutral
+"thầy rất dễ_chịu , giới_thiệu về thực_tế bên ngoài nhiều !",1,Positive
+không có ý_kiến !,2,Neutral
+môn_học khá khó không phù_hợp .,0,Negative
+phương_pháp làm bài_tập .,2,Neutral
+thầy giảng tận_tâm .,1,Positive
+"ít tương_tác với sinh_viên khi dạy , không thông_báo cụ_thể đồ_án phải làm những gì , không thông_báo ngày báo_cáo cũng như hỏi_han tiến_độ đồ_án .",0,Negative
+nhiệt_huyết với sinh_viên .,1,Positive
+nên giải_thích một_số vấn_đề khó chi_tiết hơn .,0,Negative
+giảng_dạy ngắn_gọn dễ hiểu 10 fraction 10 điểm cho thầy luôn .,1,Positive

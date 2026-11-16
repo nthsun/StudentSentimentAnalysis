@@ -1,0 +1,7 @@
+﻿rank,configuration,model,cv_macro_f1,best_params,feature_count,model_path
+1,unigram_bigram,Logistic Regression,0.7784662848870376,"{'classifier__C': 1, 'classifier__class_weight': 'balanced'}",1199,/Users/nguyenthihoa/Documents/StudentSentimentAnalysis/models/uit_vsfc/pipeline/pipeline_unigram_bigram_logistic_regression.joblib
+2,unigram,Logistic Regression,0.7730898841783532,"{'classifier__C': 1, 'classifier__class_weight': None}",529,/Users/nguyenthihoa/Documents/StudentSentimentAnalysis/models/uit_vsfc/pipeline/pipeline_unigram_logistic_regression.joblib
+3,unigram_bigram,Linear SVM,0.7722054894841571,"{'classifier__C': 0.1, 'classifier__class_weight': None}",1199,/Users/nguyenthihoa/Documents/StudentSentimentAnalysis/models/uit_vsfc/pipeline/pipeline_unigram_bigram_linear_svm.joblib
+4,unigram,Linear SVM,0.7643619168768845,"{'classifier__C': 0.1, 'classifier__class_weight': None}",529,/Users/nguyenthihoa/Documents/StudentSentimentAnalysis/models/uit_vsfc/pipeline/pipeline_unigram_linear_svm.joblib
+5,unigram,Naive Bayes,0.7119167435013226,{'classifier__alpha': 1.0},529,/Users/nguyenthihoa/Documents/StudentSentimentAnalysis/models/uit_vsfc/pipeline/pipeline_unigram_naive_bayes.joblib
+6,unigram_bigram,Naive Bayes,0.7112045303012947,{'classifier__alpha': 0.5},1199,/Users/nguyenthihoa/Documents/StudentSentimentAnalysis/models/uit_vsfc/pipeline/pipeline_unigram_bigram_naive_bayes.joblib

@@ -1,0 +1,7 @@
+﻿evaluation,model,configuration,accuracy,precision_macro,recall_macro,f1_macro,f1_weighted,cv_f1_macro
+Pipeline Cross-validation,Logistic Regression,unigram_bigram,,,,,,0.7785
+Pipeline Cross-validation,Logistic Regression,unigram,,,,,,0.7731
+Pipeline Cross-validation,Linear SVM,unigram_bigram,,,,,,0.7722
+Pipeline Cross-validation,Linear SVM,unigram,,,,,,0.7644
+Pipeline Cross-validation,Naive Bayes,unigram,,,,,,0.7119
+Pipeline Cross-validation,Naive Bayes,unigram_bigram,,,,,,0.7112

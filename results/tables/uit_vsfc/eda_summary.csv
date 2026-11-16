@@ -1,0 +1,9 @@
+﻿metric,value
+total_samples,1000.0
+total_columns,5.0
+missing_cells,0.0
+duplicate_comments,0.0
+duplicate_rows,0.0
+conflicting_label_comments,0.0
+average_word_count,12.52
+median_word_count,10.0

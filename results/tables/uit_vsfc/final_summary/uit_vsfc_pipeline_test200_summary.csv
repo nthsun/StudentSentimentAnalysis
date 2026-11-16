@@ -1,0 +1,7 @@
+﻿evaluation,model,configuration,accuracy,precision_macro,recall_macro,f1_macro,f1_weighted,cv_f1_macro
+Pipeline Test 200,Logistic Regression,Unigram,0.73,0.7412,0.73,0.7324,0.7321,
+Pipeline Test 200,Logistic Regression,Unigram + Bigram,0.73,0.7382,0.73,0.7318,0.7315,
+Pipeline Test 200,Linear SVM,Unigram,0.72,0.7301,0.72,0.7227,0.7224,
+Pipeline Test 200,Linear SVM,Unigram + Bigram,0.72,0.7247,0.7201,0.7209,0.7206,
+Pipeline Test 200,Naive Bayes,Unigram,0.72,0.7268,0.7208,0.7146,0.7141,
+Pipeline Test 200,Naive Bayes,Unigram + Bigram,0.695,0.6968,0.6956,0.6908,0.6904,

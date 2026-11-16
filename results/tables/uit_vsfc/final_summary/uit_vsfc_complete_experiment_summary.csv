@@ -1,0 +1,21 @@
+﻿evaluation,model,configuration,accuracy,precision_macro,recall_macro,f1_macro,f1_weighted,cv_f1_macro
+Baseline,DummyClassifier,Not specified,0.33,0.11,0.3333,0.1654,0.1638,
+Initial ML models,Logistic Regression,unigram,0.73,0.7412,0.73,0.7324,0.7321,0.7726
+Initial ML models,Logistic Regression,unigram_bigram,0.725,0.7333,0.725,0.727,0.7267,0.7643
+Initial ML models,Linear SVM,unigram,0.72,0.7301,0.72,0.7227,0.7224,0.7626
+Initial ML models,Linear SVM,unigram_bigram,0.72,0.7247,0.7201,0.7209,0.7206,0.7638
+Initial ML models,Naive Bayes,unigram,0.71,0.7135,0.7108,0.7042,0.7037,0.7087
+Initial ML models,Naive Bayes,unigram_bigram,0.7,0.7047,0.7007,0.6949,0.6943,0.7109
+Official Test 3166,Logistic Regression,TF-IDF Unigram + Bigram,0.7543,0.6518,0.7124,0.6355,0.794,
+Pipeline Cross-validation,Logistic Regression,unigram_bigram,,,,,,0.7785
+Pipeline Cross-validation,Logistic Regression,unigram,,,,,,0.7731
+Pipeline Cross-validation,Linear SVM,unigram_bigram,,,,,,0.7722
+Pipeline Cross-validation,Linear SVM,unigram,,,,,,0.7644
+Pipeline Cross-validation,Naive Bayes,unigram,,,,,,0.7119
+Pipeline Cross-validation,Naive Bayes,unigram_bigram,,,,,,0.7112
+Pipeline Test 200,Logistic Regression,Unigram,0.73,0.7412,0.73,0.7324,0.7321,
+Pipeline Test 200,Logistic Regression,Unigram + Bigram,0.73,0.7382,0.73,0.7318,0.7315,
+Pipeline Test 200,Linear SVM,Unigram,0.72,0.7301,0.72,0.7227,0.7224,
+Pipeline Test 200,Linear SVM,Unigram + Bigram,0.72,0.7247,0.7201,0.7209,0.7206,
+Pipeline Test 200,Naive Bayes,Unigram,0.72,0.7268,0.7208,0.7146,0.7141,
+Pipeline Test 200,Naive Bayes,Unigram + Bigram,0.695,0.6968,0.6956,0.6908,0.6904,

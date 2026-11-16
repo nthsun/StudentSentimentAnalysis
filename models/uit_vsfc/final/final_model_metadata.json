@@ -1,0 +1,18 @@
+{
+    "dataset": "UIT-VSFC",
+    "training_samples": 800,
+    "labels": {
+        "0": "Negative",
+        "1": "Positive",
+        "2": "Neutral"
+    },
+    "selected_candidate": "A_No_Chi2",
+    "selection_reason": "Hai mô hình có Macro F1 gần tương đương. Ưu tiên mô hình không sử dụng Chi-square vì quy trình đơn giản hơn.",
+    "cv_macro_f1": 0.7784662848870376,
+    "cv_folds": 5,
+    "random_state": 42,
+    "model_path": "/Users/nguyenthihoa/Documents/StudentSentimentAnalysis/models/uit_vsfc/final/uit_vsfc_final_model.joblib",
+    "input_column": "segmented_comments",
+    "preprocessing": "Vietnamese text preprocessing and Underthesea word segmentation",
+    "note": "Fixed-hyperparameter CV diagnostic. Hyperparameters were previously selected using the same Train data. Not an independent test estimate."
+}

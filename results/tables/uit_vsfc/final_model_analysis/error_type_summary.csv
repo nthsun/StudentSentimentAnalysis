@@ -1,0 +1,7 @@
+﻿error_type,count,percentage_of_errors
+Negative -> Neutral,308,39.588688946015424
+Positive -> Neutral,205,26.34961439588689
+Positive -> Negative,131,16.838046272493575
+Negative -> Positive,70,8.997429305912597
+Neutral -> Negative,37,4.755784061696658
+Neutral -> Positive,27,3.470437017994859

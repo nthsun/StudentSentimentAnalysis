@@ -1,0 +1,2 @@
+﻿Model,Strategy,Predicted_Label,Accuracy,Macro_Precision,Macro_Recall,Macro_F1,Weighted_F1
+DummyClassifier,most_frequent,Positive,0.33,0.11,0.3333333333333333,0.16541353383458646,0.1637593984962406

@@ -1,0 +1,6 @@
+﻿model,mean,max,min
+LogisticRegression,0.7649,0.7785,0.7401
+LinearSVM,0.76268,0.7734,0.7457
+RandomForest,0.75334,0.7581,0.747
+MultinomialNB,0.71078,0.7175,0.6988
+ComplementNB,0.69368,0.7036,0.677

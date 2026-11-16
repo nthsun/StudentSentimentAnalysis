@@ -1,0 +1,2 @@
+﻿dataset,model,configuration,test_samples,correct_predictions,incorrect_predictions,accuracy,precision_macro,recall_macro,f1_macro,f1_weighted
+UIT-VSFC Official Test,Logistic Regression,TF-IDF Unigram + Bigram,3166,2388,778,0.7542640555906507,0.6517641201947425,0.7123901132480678,0.6355020049776325,0.7940176675444292
